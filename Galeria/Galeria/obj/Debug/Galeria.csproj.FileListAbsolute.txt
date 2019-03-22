@@ -1,0 +1,48 @@
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual\Galeria\Galeria\obj\Debug\Galeria.csprojAssemblyReference.cache
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual\Galeria\Galeria\obj\Debug\Galeria.Form1.resources
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual\Galeria\Galeria\obj\Debug\Galeria.Registrar_Persona.resources
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual\Galeria\Galeria\obj\Debug\Galeria.Properties.Resources.resources
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual\Galeria\Galeria\obj\Debug\Galeria.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual\Galeria\Galeria\obj\Debug\Galeria.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual\Galeria\Galeria\bin\Debug\Galeria.exe.config
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual\Galeria\Galeria\bin\Debug\Galeria.exe
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual\Galeria\Galeria\bin\Debug\Galeria.pdb
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual\Galeria\Galeria\bin\Debug\MySql.Data.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual\Galeria\Galeria\bin\Debug\Google.Protobuf.dll
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual\Galeria\Galeria\bin\Debug\MySql.Data.xml
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual\Galeria\Galeria\obj\Debug\Galeria.csproj.CopyComplete
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual\Galeria\Galeria\obj\Debug\Galeria.exe
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual\Galeria\Galeria\obj\Debug\Galeria.pdb
+C:\Users\hp\OneDrive\Escritorio\Proyectos Visual\Galeria\Galeria\obj\Debug\Galeria.Form_Album.resources
+C:\Users\salak401\Desktop\Galeria\Galeria\bin\Debug\Galeria.exe.config
+C:\Users\salak401\Desktop\Galeria\Galeria\bin\Debug\Galeria.exe
+C:\Users\salak401\Desktop\Galeria\Galeria\bin\Debug\Galeria.pdb
+C:\Users\salak401\Desktop\Galeria\Galeria\bin\Debug\MySql.Data.dll
+C:\Users\salak401\Desktop\Galeria\Galeria\bin\Debug\Google.Protobuf.dll
+C:\Users\salak401\Desktop\Galeria\Galeria\bin\Debug\MySql.Data.xml
+C:\Users\salak401\Desktop\Galeria\Galeria\obj\Debug\Galeria.csprojAssemblyReference.cache
+C:\Users\salak401\Desktop\Galeria\Galeria\obj\Debug\Galeria.Form_Album.resources
+C:\Users\salak401\Desktop\Galeria\Galeria\obj\Debug\Galeria.Form1.resources
+C:\Users\salak401\Desktop\Galeria\Galeria\obj\Debug\Galeria.Registrar_Persona.resources
+C:\Users\salak401\Desktop\Galeria\Galeria\obj\Debug\Galeria.Properties.Resources.resources
+C:\Users\salak401\Desktop\Galeria\Galeria\obj\Debug\Galeria.csproj.GenerateResource.cache
+C:\Users\salak401\Desktop\Galeria\Galeria\obj\Debug\Galeria.csproj.CoreCompileInputs.cache
+C:\Users\salak401\Desktop\Galeria\Galeria\obj\Debug\Galeria.csproj.CopyComplete
+C:\Users\salak401\Desktop\Galeria\Galeria\obj\Debug\Galeria.exe
+C:\Users\salak401\Desktop\Galeria\Galeria\obj\Debug\Galeria.pdb
+E:\Desarrollo\Galeria\Galeria\bin\Debug\Galeria.exe.config
+E:\Desarrollo\Galeria\Galeria\bin\Debug\Galeria.exe
+E:\Desarrollo\Galeria\Galeria\bin\Debug\Galeria.pdb
+E:\Desarrollo\Galeria\Galeria\bin\Debug\MySql.Data.dll
+E:\Desarrollo\Galeria\Galeria\bin\Debug\Google.Protobuf.dll
+E:\Desarrollo\Galeria\Galeria\bin\Debug\MySql.Data.xml
+E:\Desarrollo\Galeria\Galeria\obj\Debug\Galeria.csprojAssemblyReference.cache
+E:\Desarrollo\Galeria\Galeria\obj\Debug\Galeria.Form_Album.resources
+E:\Desarrollo\Galeria\Galeria\obj\Debug\Galeria.Form1.resources
+E:\Desarrollo\Galeria\Galeria\obj\Debug\Galeria.Registrar_Persona.resources
+E:\Desarrollo\Galeria\Galeria\obj\Debug\Galeria.Properties.Resources.resources
+E:\Desarrollo\Galeria\Galeria\obj\Debug\Galeria.csproj.GenerateResource.cache
+E:\Desarrollo\Galeria\Galeria\obj\Debug\Galeria.csproj.CoreCompileInputs.cache
+E:\Desarrollo\Galeria\Galeria\obj\Debug\Galeria.csproj.CopyComplete
+E:\Desarrollo\Galeria\Galeria\obj\Debug\Galeria.exe
+E:\Desarrollo\Galeria\Galeria\obj\Debug\Galeria.pdb
