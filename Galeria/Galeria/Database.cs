@@ -14,18 +14,23 @@ namespace Galeria
         MySqlConnection galeriaC = new MySqlConnection();
         public Database()
         {
-
-            galeriaC.ConnectionString = "server = 127.0.0.1; "
-                            + "uid= root; "
-                            + "pwd= root; "
-                            + "database= galeria;";
-            galeriaC.Open();
+            try
+            {
+                galeriaC.ConnectionString = "server = 127.0.0.1; "
+                                + "uid= root; "
+                                + "pwd= root; "
+                               + "database= galeria;";
+                galeriaC.Open();
+            }catch(MySqlException e)
+            {
+                MessageBox.Show("Error al inicializar el servidor: \n" + e);
+            } 
         }
 
         public int insertdate(Usuario user)
         {
             int sw = 0;
-            
+
             try
             {
                 //ingresar datos en la tabla persona
@@ -41,7 +46,7 @@ namespace Galeria
                 MessageBox.Show(e.Message);
                 sw = 1;
             }
-            int Resultado=0; // Variable aux donde guardaremos la consulta
+            String Resultado = ""; // Variable aux donde guardaremos la consulta
                                      //Si a este campo le ponemos el valor que deberia ir en PersonaID(persona) y
                                      //el de PersonaID(Usuario), logra hacer la consulta 2
             if (sw == 0)
@@ -49,7 +54,7 @@ namespace Galeria
                 try
                 {
                     //Pasar el ultimo valor de PersonaID a UsuarioID
-                    String query = "SELECT MAX(`PersonaID`) FROM `persona`;";
+                    String query = "SELECT MAX(`PersonaID`) AS'RESULT' FROM `persona`;";
 
 
                     MySqlCommand command3 = new MySqlCommand(query);
@@ -60,10 +65,8 @@ namespace Galeria
                     
                     foreach (DataRow row in dataTable.Rows)
                     {
-                        int.TryParse(Convert.ToString(row["PersonaID"]), out Resultado);
+                       Resultado = Resultado + (row["RESULT"]);
                         
-                       
-                        return Resultado;
                     }
                     
                     //MessageBox.Show(Resultado); //Esto es para ver que me guarda la consulta, que al parecer no es nada,
